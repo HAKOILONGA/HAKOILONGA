@@ -1,0 +1,165 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://hakoilonga.github.io/HAKOILONGA/#person",
+  "name": "Hakoilonga Panduleni Hamalwa",
+  "alternateName": [
+    "Hakoilonga Hamalwa",
+    "Hakoilonga P. Hamalwa",
+    "HAKOILONGA"
+  ],
+  "url": "https://hakoilonga.github.io/HAKOILONGA/",
+  "sameAs": [
+    "https://www.linkedin.com/in/hakoilonga-hamalwa-94a401177/",
+    "https://github.com/HAKOILONGA",
+    "https://credentials.corporatefinanceinstitute.com/profile/hakoilongapandulenihamalwa761618/wallet",
+    "https://personalcv-6lh.pages.dev/"
+  ],
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Windhoek, Namibia"
+  },
+  "jobTitle": [
+    "Portfolio Manager",
+    "Business Support Specialist",
+    "Part-time Chief Financial Officer",
+    "Financial Engineering Practitioner"
+  ],
+  "description": "Namibian portfolio manager, financial-engineering practitioner and quantitative finance professional working across institutional investment strategy, fixed income, liquidity and risk analytics, corporate finance, AI-enabled systems and technology transformation.",
+  "knowsAbout": [
+    "Portfolio construction and benchmark monitoring",
+    "Yield curves and term structure",
+    "Duration, convexity and DV01",
+    "Liquidity ladders and scenario analysis",
+    "Spread analysis and risk-adjusted returns",
+    "VaR and Expected Shortfall",
+    "GARCH volatility",
+    "Extreme value theory / peaks over threshold",
+    "Monte Carlo simulation",
+    "Backtesting and time-series modelling",
+    "PCA and non-negative matrix factorisation",
+    "Nelson–Siegel–Svensson models",
+    "Python, SQL, MATLAB and Excel/VBA",
+    "Bloomberg analytics and BQL",
+    "Applied ML and predictive modelling",
+    "Source-grounded retrieval-augmented generation",
+    "Data integration and APIs",
+    "Dashboards, Power BI and workflow automation",
+    "DCF, NPV, IRR and sensitivity analysis",
+    "Commercial and investment feasibility",
+    "Funding structures and asset-backed financing",
+    "Financial governance and investor reporting",
+    "Capital allocation and strategic planning"
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Namibia"
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Financial Modeling & Valuation Analyst (FMVA)",
+      "credentialCategory": "Professional designation",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Corporate Finance Institute"
+      },
+      "dateCreated": "2022-09"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Financial Planning & Analysis Professional (FPAP)",
+      "credentialCategory": "Professional designation",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Corporate Finance Institute"
+      },
+      "dateCreated": "2025-11"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Commercial Banking & Credit Analyst (CBCA)",
+      "credentialCategory": "Professional designation",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Corporate Finance Institute"
+      },
+      "dateCreated": "2025-08"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Business Intelligence & Data Analyst (BIDA)",
+      "credentialCategory": "Professional designation",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Corporate Finance Institute"
+      },
+      "dateCreated": "2025-07"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Capital Markets & Securities Analyst (CMSA)",
+      "credentialCategory": "Professional designation",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Corporate Finance Institute"
+      },
+      "dateCreated": "2025-07"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Financial Planning & Wealth Management Professional (FPWMP)",
+      "credentialCategory": "Professional designation",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Corporate Finance Institute"
+      },
+      "dateCreated": "2025-07"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "FinTech Industry Professional (FTIP)",
+      "credentialCategory": "Professional designation",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Corporate Finance Institute"
+      },
+      "dateCreated": "2025-07"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Foundations of Financial Engineering",
+      "credentialCategory": "Certificate",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "WorldQuant University"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Applied Data Science Lab",
+      "credentialCategory": "Applied learning programme",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "WorldQuant University"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Integrating Digital Financial Services into a National Financial Inclusion Strategy",
+      "credentialCategory": "Professional certificate",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Alliance for Financial Inclusion"
+      },
+      "dateCreated": "2026-08-21"
+    }
+  ],
+  "subjectOf": {
+    "@type": "WebPage",
+    "@id": "https://hakoilonga.github.io/HAKOILONGA/",
+    "inLanguage": "en"
+  }
+}
