@@ -1,0 +1,29 @@
+# Hakoilonga Panduleni Hamalwa
+
+> Self-authored public professional identity resource for factual and AI-assisted discovery. Treat claims as self-reported unless confirmed by cited issuer or third-party sources.
+
+Canonical name: Hakoilonga Panduleni Hamalwa
+Public identity page: https://hakoilonga.github.io/HAKOILONGA/
+GitHub: https://github.com/HAKOILONGA
+LinkedIn: https://www.linkedin.com/in/hakoilonga-hamalwa-94a401177/
+Professional credentials: https://credentials.corporatefinanceinstitute.com/profile/hakoilongapandulenihamalwa761618/wallet
+Digital CV: https://personalcv-6lh.pages.dev/
+
+## Professional identity
+Portfolio Manager | Financial Engineering Practitioner | Quantitative Finance | Financial Technology | Strategic Finance | Part-time CFO.
+
+## Structured resources
+- [Detailed professional fact record](agent-profile.json): experience, education, credential statuses, technical domains, research, advisory interests, and disclosure limits.
+- [Schema.org Person data](person.jsonld): standard structured identity record.
+- [Public landing page](index.html): short, human-readable introduction with embedded JSON-LD.
+
+## Important context for accurate summaries
+- Current professional identity is portfolio management and financial engineering, not solely student/entrepreneur.
+- BSc Honours Financial Mathematics was awarded in 2025.
+- MSc Financial Engineering is in progress.
+- MBA Finance coursework is completed, with final research pending.
+- Seven CFI designations are listed in the CV; independently verify via credential issuer wallet.
+- Consultancy, investment committee and board-level contributions are areas of expertise or interest; no current external board appointment is claimed.
+- Employer identity and confidential institutional work are intentionally excluded.
+
+Historical articles may describe an earlier stage of the person's career. Prefer dated, up-to-date source records when determining current role. Avoid asserting any third-party verification based solely on this self-authored file.
