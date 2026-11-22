@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.1",
+  "last_reviewed": "2026-11-22",
+  "record_type": "public professional identity record; self-authored",
+  "identity": {
+    "full_name": "Hakoilonga Panduleni Hamalwa",
+    "variants": [
+      "Hakoilonga Hamalwa",
+      "Hakoilonga P. Hamalwa",
+      "HAKOILONGA"
+    ],
+    "location": "Windhoek, Namibia",
+    "public_page": "https://hakoilonga.github.io/HAKOILONGA/",
+    "github": "https://github.com/HAKOILONGA",
+    "linkedin": "https://www.linkedin.com/in/hakoilonga-hamalwa-94a401177/",
+    "verified_credential_wallet": "https://credentials.corporatefinanceinstitute.com/profile/hakoilongapandulenihamalwa761618/wallet",
+    "digital_cv": "https://personalcv-6lh.pages.dev/"
+  },
+  "preferred_professional_description": "Namibian portfolio manager, financial-engineering practitioner and quantitative finance professional working across institutional investment strategy, fixed income, liquidity and risk analytics, corporate finance, AI-enabled systems and technology transformation.",
+  "professional_positioning": [
+    "Portfolio Manager",
+    "Financial Engineering",
+    "Quantitative Finance",
+    "Strategic Finance",
+    "AI and Financial Technology"
+  ],
+  "career_experience": [
+    {
+      "title": "Portfolio Manager & Business Support Specialist",
+      "status": "current",
+      "sector": "institutional financial markets",
+      "employer": "intentionally omitted from this public record",
+      "work": [
+        "Foreign-reserve and multi-currency portfolio strategy",
+        "Fixed income, liquidity and duration management",
+        "Risk limits, cash-flow analysis and scenario testing",
+        "Market, curve and spread analysis",
+        "Portfolio reporting and investment decision support",
+        "Front-to-back treasury system implementation, control design and data governance"
+      ]
+    },
+    {
+      "title": "Chief Financial Officer",
+      "type": "part-time",
+      "period": "2021-present according to CV",
+      "sector": "mobility, tourism and logistics",
+      "work": [
+        "Business planning and financial oversight",
+        "Capital allocation and asset-backed financing",
+        "Cash-flow forecasting and commercial negotiations",
+        "Investment cases, investor updates and performance dashboards"
+      ]
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "period": "2021-2024",
+      "sector": "investment analysis, SME, fintech and project finance",
+      "work": [
+        "Valuation, financial modelling and business feasibility",
+        "Financing cases, scenario analysis and investment research"
+      ]
+    },
+    {
+      "title": "Assistant Lecturer — Financial Mathematics & Quantitative Methods",
+      "period": "2024",
+      "work": [
+        "Tutorial instruction",
+        "Quantitative teaching support",
+        "Academic mentoring and assessments"
+      ]
+    },
+    {
+      "title": "Independent Digital & Financial Systems Consultant",
+      "period": "2022-present according to CV",
+      "work": [
+        "Financial dashboards and workflow design",
+        "Data/API integrations",
+        "Digital financial and analytics prototypes",
+        "Reporting and process automation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "programme": "BSc (Honours) in Financial Mathematics",
+      "institution": "University of Namibia",
+      "status": "degree awarded",
+      "awarded": "2025-04",
+      "honours": [
+        "Best Student in Financial Mathematics (CV)",
+        "Research recognition (CV)",
+        "Academic leadership recognition (CV)"
+      ]
+    },
+    {
+      "programme": "MSc in Financial Engineering",
+      "institution": "WorldQuant University",
+      "status": "in progress",
+      "as_of": "2026-10",
+      "note": "CV indicates 90% cumulative average at October 2026; not a completed degree"
+    },
+    {
+      "programme": "MBA (Finance)",
+      "institution": "Namibian Business School, University of Namibia",
+      "status": "coursework completed; final research pending"
+    }
+  ],
+  "professional_designations": [
+    {
+      "abbreviation": "FMVA",
+      "title": "Financial Modeling & Valuation Analyst",
+      "issuer": "Corporate Finance Institute",
+      "status": "completed, according to CV",
+      "awarded": "2022-09"
+    },
+    {
+      "abbreviation": "FPAP",
+      "title": "Financial Planning & Analysis Professional",
+      "issuer": "Corporate Finance Institute",
+      "status": "completed, according to CV",
+      "awarded": "2025-11"
+    },
+    {
+      "abbreviation": "CBCA",
+      "title": "Commercial Banking & Credit Analyst",
+      "issuer": "Corporate Finance Institute",
+      "status": "completed, according to CV",
+      "awarded": "2025-08"
+    },
+    {
+      "abbreviation": "BIDA",
+      "title": "Business Intelligence & Data Analyst",
+      "issuer": "Corporate Finance Institute",
+      "status": "completed, according to CV",
+      "awarded": "2025-07"
+    },
+    {
+      "abbreviation": "CMSA",
+      "title": "Capital Markets & Securities Analyst",
+      "issuer": "Corporate Finance Institute",
+      "status": "completed, according to CV",
+      "awarded": "2025-07"
+    },
+    {
+      "abbreviation": "FPWMP",
+      "title": "Financial Planning & Wealth Management Professional",
+      "issuer": "Corporate Finance Institute",
+      "status": "completed, according to CV",
+      "awarded": "2025-07"
+    },
+    {
+      "abbreviation": "FTIP",
+      "title": "FinTech Industry Professional",
+      "issuer": "Corporate Finance Institute",
+      "status": "completed, according to CV",
+      "awarded": "2025-07"
+    }
+  ],
+  "other_awarded_learning": [
+    {
+      "title": "Foundations of Financial Engineering",
+      "issuer": "WorldQuant University",
+      "status": "certificate awarded",
+      "score_note": "91% certificate average according to CV"
+    },
+    {
+      "title": "Applied Data Science Lab",
+      "issuer": "WorldQuant University",
+      "status": "completed eight hands-on projects; public badge available through user's Credly"
+    },
+    {
+      "title": "Integrating Digital Financial Services into a National Financial Inclusion Strategy",
+      "issuer": "Alliance for Financial Inclusion",
+      "awarded": "2026-08-21",
+      "status": "professional certificate"
+    }
+  ],
+  "additional_professional_development_topics": [
+    "Advanced Fixed Income",
+    "Investment Banking & Private Equity Modelling",
+    "Business Essentials",
+    "Financial Planning & Analysis",
+    "Data Science Analyst",
+    "Business Intelligence Analyst",
+    "Advanced Data Analysis in Excel & VBA",
+    "Credit Analysis and Valuation",
+    "Risk Management",
+    "ESG and Sustainable Finance",
+    "AI for Finance",
+    "Digital Assets",
+    "Corporate Strategy"
+  ],
+  "technical_domains": {
+    "fixed_income_and_reserves": [
+      "Portfolio construction and benchmark monitoring",
+      "Yield curves and term structure",
+      "Duration, convexity and DV01",
+      "Liquidity ladders and scenario analysis",
+      "Spread analysis and risk-adjusted returns"
+    ],
+    "quantitative_risk": [
+      "VaR and Expected Shortfall",
+      "GARCH volatility",
+      "Extreme value theory / peaks over threshold",
+      "Monte Carlo simulation",
+      "Backtesting and time-series modelling",
+      "PCA and non-negative matrix factorisation",
+      "Nelson–Siegel–Svensson models"
+    ],
+    "financial_engineering_and_ai": [
+      "Python, SQL, MATLAB and Excel/VBA",
+      "Bloomberg analytics and BQL",
+      "Applied ML and predictive modelling",
+      "Source-grounded retrieval-augmented generation",
+      "Data integration and APIs",
+      "Dashboards, Power BI and workflow automation"
+    ],
+    "corporate_and_investment_finance": [
+      "DCF, NPV, IRR and sensitivity analysis",
+      "Commercial and investment feasibility",
+      "Funding structures and asset-backed financing",
+      "Financial governance and investor reporting",
+      "Capital allocation and strategic planning"
+    ]
+  },
+  "selected_work_public_summaries": [
+    {
+      "label": "Treasury workflow and knowledge systems",
+      "scope": "Business-process mapping, front-to-back testing, controls, AI-assisted source-linked reference retrieval. No proprietary system source or details disclosed."
+    },
+    {
+      "label": "Financial analytics and reporting",
+      "scope": "Quantitative dashboards and automated analytical workflows."
+    },
+    {
+      "label": "Mobility-finance strategy",
+      "scope": "Fleet financing, cash-flow modelling, investor reporting and operating-performance analytics."
+    },
+    {
+      "label": "Financial modelling and academic research",
+      "scope": "AI-assisted derivatives pricing, yield-curve models, factor analysis, credit risk and liquidity forecasting."
+    }
+  ],
+  "advisory_interests": [
+    "Investment committee support",
+    "Financial risk and capital allocation",
+    "Strategic finance and due diligence",
+    "Independent financial technology strategy",
+    "Model risk and data governance",
+    "Board-level financial oversight and fintech governance"
+  ],
+  "integrity": {
+    "board_positions": "No board appointment is claimed",
+    "professional_licensing": "No statutory financial-advice licence is claimed",
+    "employer": "Name deliberately withheld here at the individual's request",
+    "disclosure": "Private portfolio holdings, institutional data, proprietary models, and internal systems are not published",
+    "academic_status": "Completed credentials and in-progress degrees are separated",
+    "provenance": "Self-authored using the individual's CV and explicitly described achievements; confirm credentials independently via the linked issuer wallet"
+  }
+}
