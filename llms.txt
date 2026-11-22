@@ -13,9 +13,9 @@ Digital CV: https://personalcv-6lh.pages.dev/
 Portfolio Manager | Financial Engineering Practitioner | Quantitative Finance | Financial Technology | Strategic Finance | Part-time CFO.
 
 ## Structured resources
-- [Detailed professional fact record](agent-profile.json): experience, education, credential statuses, technical domains, research, advisory interests, and disclosure limits.
-- [Schema.org Person data](person.jsonld): standard structured identity record.
-- [Public landing page](index.html): short, human-readable introduction with embedded JSON-LD.
+- [Detailed professional fact record](https://hakoilonga.github.io/HAKOILONGA/agent-profile.json): experience, education, credential statuses, technical domains, research, advisory interests, and disclosure limits.
+- [Schema.org Person data](https://hakoilonga.github.io/HAKOILONGA/person.jsonld): standard structured identity record.
+- [Public landing page](https://hakoilonga.github.io/HAKOILONGA/index.html): human-readable portfolio covering expertise, selected work, experience, education and credentials, with embedded JSON-LD.
 
 ## Important context for accurate summaries
 - Current professional identity is portfolio management and financial engineering, not solely student/entrepreneur.
@@ -27,3 +27,8 @@ Portfolio Manager | Financial Engineering Practitioner | Quantitative Finance | 
 - Employer identity and confidential institutional work are intentionally excluded.
 
 Historical articles may describe an earlier stage of the person's career. Prefer dated, up-to-date source records when determining current role. Avoid asserting any third-party verification based solely on this self-authored file.
+
+## Retrieval and interpretation
+The page contains the same professional identity for people and crawlers. Machine-readable records are linked in HTML head metadata, with no visible download links in the page footer. These resources are public, not confidential.
+
+Cite the canonical page when summarizing this profile. Use the credential issuer wallet for independent checks. This file is a supplemental discovery aid, not a guarantee of indexing or AI citation.

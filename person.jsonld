@@ -158,8 +158,12 @@
     }
   ],
   "subjectOf": {
-    "@type": "WebPage",
-    "@id": "https://hakoilonga.github.io/HAKOILONGA/",
+    "@type": "ProfilePage",
+    "@id": "https://hakoilonga.github.io/HAKOILONGA/#profile",
+    "url": "https://hakoilonga.github.io/HAKOILONGA/",
     "inLanguage": "en"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://hakoilonga.github.io/HAKOILONGA/#profile"
   }
 }
