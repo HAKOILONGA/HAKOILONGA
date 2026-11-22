@@ -1,46 +1,35 @@
 # Hakoilonga Panduleni Hamalwa
 
-**Portfolio Manager · Financial Engineering · Quantitative Finance · Financial Technology**
+**Portfolio Manager | Financial Engineering | Quantitative Finance | Strategic Finance | Financial Technology**
 
-A responsive professional portfolio covering expertise, selected work, career experience, education and professional designations. Content is grounded in the self-authored `agent-profile.json`; incomplete degrees are explicitly labelled.
+I connect investment judgment, quantitative risk and capital allocation with the technology and systems that make complex finance executable.
 
-## Preview
+Based in Windhoek, Namibia, my work spans institutional portfolio strategy, fixed income, financial modelling, business finance and financial systems. I bring analytical depth and a practical focus on turning models and information into useful decisions.
 
-No installation or build step is required. From the repository directory:
+[Explore my portfolio](https://hakoilonga.github.io/HAKOILONGA/) | [LinkedIn](https://www.linkedin.com/in/hakoilonga-hamalwa-94a401177/) | [Professional CV](https://personalcv-6lh.pages.dev/) | [Professional credentials](https://credentials.corporatefinanceinstitute.com/profile/hakoilongapandulenihamalwa761618/wallet)
 
-```sh
-python -m http.server 8080
-```
+## Areas of expertise
 
-Open http://localhost:8080. The site also works as static files and is compatible with GitHub Pages.
+- **Investment and portfolio strategy:** fixed income, multi-currency portfolios, benchmark monitoring, duration management and liquidity analysis.
+- **Quantitative finance and risk:** yield-curve modelling, scenario analysis, Monte Carlo simulation, time-series modelling and risk measurement.
+- **Strategic and corporate finance:** valuation, cash-flow forecasting, investment feasibility, capital allocation and financing structures.
+- **Financial technology and analytics:** Python, SQL, MATLAB, Excel/VBA, Bloomberg analytics, dashboards, data integration and workflow automation.
 
-## Files
+## Professional focus
 
-- `index.html`: accessible page, navigation, metadata and embedded Person JSON-LD.
-- `styles.css`: responsive layout, keyboard focus, reduced-motion and print styles.
-- `favicon.svg`: local monogram icon.
-- `agent-profile.json`: detailed professional facts and disclosure boundaries.
-- `person.jsonld`: standalone Schema.org identity record.
-- `llms.txt`, `robots.txt`, `sitemap.xml`: discovery resources.
+My experience connects portfolio management and business support with part-time CFO responsibilities, financial analysis, independent financial systems consulting and teaching financial mathematics.
 
-Keep visible content, the embedded JSON-LD and the structured records consistent when updating professional information. Credentials are self-reported and can be independently checked through the linked issuer wallet.
+Selected work includes treasury workflows and knowledge systems, financial analytics and reporting, mobility-finance strategy, and financial modelling and research.
 
-[LinkedIn](https://www.linkedin.com/in/hakoilonga-hamalwa-94a401177/) · [Credential wallet](https://credentials.corporatefinanceinstitute.com/profile/hakoilongapandulenihamalwa761618/wallet) · [Digital CV](https://personalcv-6lh.pages.dev/) · [Professional page](https://hakoilonga.github.io/HAKOILONGA/)
+## Education and professional development
 
-Employer names, institutional information and confidential work are intentionally excluded.
+- **BSc (Honours) in Financial Mathematics**, University of Namibia - awarded April 2025.
+- **MSc in Financial Engineering**, WorldQuant University - in progress.
+- **MBA (Finance)**, Namibian Business School, University of Namibia - coursework completed; final research pending.
+- **Corporate Finance Institute designations:** FMVA, FPAP, CBCA, BIDA, CMSA, FPWMP and FTIP. [View credential wallet](https://credentials.corporatefinanceinstitute.com/profile/hakoilongapandulenihamalwa761618/wallet).
 
-## Search and AI discovery
+## Connect
 
-The full name is the primary heading. The page includes a canonical URL, title and description, Open Graph and Twitter sharing metadata, and a local 1200 x 630 social image. A JSON-LD graph connects WebSite, ProfilePage and Person entities. The standalone Person record matches the embedded entity.
+For professional conversations about investment strategy, financial risk, strategic finance or financial technology, [connect with me on LinkedIn](https://www.linkedin.com/in/hakoilonga-hamalwa-94a401177/).
 
-Professional-record and structured-identity links appear only in HTML head metadata, not visible navigation. JSON resources remain publicly retrievable; this is presentation, not access control. No hidden keyword text or alternate crawler-only page is used. `llms.txt` is a supplemental discovery resource, not an indexing standard or guarantee.
-
-### Production follow-through
-
-These changes must be deployed to GitHub Pages before search engines can see them. After deployment, verify the canonical site in Google Search Console and Bing Webmaster Tools using the owner's account, submit the sitemap URL, and request inspection of the home page. No verification tokens are fabricated or included here.
-
-GitHub project Pages are hosted beneath `/HAKOILONGA/`. Crawlers use the host-root `https://hakoilonga.github.io/robots.txt`; the project-local `robots.txt` cannot set host-wide policy. Check that root file for restrictions. Submit the project sitemap directly through the webmaster tools. If moving to a custom domain, update all canonical, schema, sitemap, social-image and discovery URLs together.
-
-Validate the deployed page with Google's Rich Results Test and URL Inspection. Local checks cover structure and consistency; indexing status, rankings and Core Web Vitals require production measurements. Search engines and AI systems choose whether to index, display or cite content.
-
-References: [Google AI search guidance](https://developers.google.com/search/docs/appearance/ai-features), [ProfilePage structured data](https://developers.google.com/search/docs/appearance/structured-data/profile-page).
+*Employer names, institutional information and client-confidential work are intentionally excluded.*
